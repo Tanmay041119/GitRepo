@@ -1,0 +1,13 @@
+warning: in the working copy of 'src/main/java/org/example/Main.java', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/src/main/java/org/example/Main.java b/src/main/java/org/example/Main.java[m
+[1mindex 910825b..1e198b9 100644[m
+[1m--- a/src/main/java/org/example/Main.java[m
+[1m+++ b/src/main/java/org/example/Main.java[m
+[36m@@ -15,5 +15,6 @@[m [mpublic class Main {[m
+             // for you, but you can always add more by pressing Ctrl+F8.[m
+             System.out.println("i = " + i);[m
+         }[m
+[32m+[m[32m        System.out.println("Hello my name is tanmay khandelwal");[m
+     }[m
+ }[m
+\ No newline at end of file[m
