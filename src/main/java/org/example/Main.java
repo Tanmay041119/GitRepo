@@ -17,5 +17,6 @@ public class Main {
         }
         System.out.println("Hello broswer!");
         System.out.println("There is plenty of work here");
+        System.out.println("This is written from test3");
     }
 }
